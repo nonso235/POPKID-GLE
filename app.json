@@ -70,7 +70,7 @@
       "value": "true"
     },
     "ANTILINK_MODE": {
-      "description": "Antilink mode: 'off', 'warn', 'kick', 'delete'",
+      "description": "Antilink mode: 'off', 'warn', 'kick motherfucker', 'delete'",
       "required": false,
       "value": "warn"
     },
